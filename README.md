@@ -1,4 +1,3 @@
-# EV
 ## EV Charging Station Analysis and Visualization
 This repository contains a Jupyter Notebook that performs an analysis of electric vehicle (EV) ownership and charging station data. The analysis identifies potential areas for new EV charging stations in Ireland, focusing on factors such as high concentration of electric vehicles, areas with limited existing charging infrastructure, and high population density. The notebook also includes visualizations to present the findings.
 
