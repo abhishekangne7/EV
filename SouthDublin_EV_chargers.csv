@@ -1,0 +1,34 @@
+﻿LEA,Location,Operator,Number_of_chargers,Type,Rating,ObjectId
+Clondalkin,Maldron Hotel,EasyGo,2,Type 2,22kw,1
+Clondalkin,Circle K Newlands,ESB,1,CHAdeMO,50kW,2
+Clondalkin,Circle K Newlands,ESB,1,Type 2,43kw,3
+Clondalkin,Circle K Newlands,ESB,1,Combi,50kW,4
+Clondalkin,Main Street Rathcoole,ESB,2,Type 2,22kW,5
+Clondalkin,"Tesco, Colndalkin",ESB,2,Type 2,22kW,6
+Lucan,Lidl Adamstown,EasyGo,2,Type 2,22kW,7
+Lucan,Starbucks Lucan Retail Park,EasyGo,2,CCS,50kw,8
+Lucan,"Tesco, Lucan",ESB,2,Type 2,22kW,9
+Lucan,Lucan Shopping Centre,ESB,1,CCS,100kw,10
+Lucan,Lucan Shopping Centre,ESB,1,Combi,50kW,11
+Clondalkin,"Pfizer, Grangecastle",EasyGo,28,Type 2,7kW,12
+Clondalkin,Park West Road The Plaza,ESB,2,Type 2,22kW,13
+Clondalkin,Supervalu Newcastle,ESB,4,CCS,100kW,14
+Palmerstown Fonthill,Liffey Valley,EasyGo,2,Type 2,7kW,15
+Palmerstown Fonthill,Liffey Valley,ESB,4,Type 2,22kW,16
+Rathfarnham_Templeogue,Greenhills Road,ESB,2,Type 2,22kW,17
+Rathfarnham_Templeogue,Circle K Templeville Road,ESB,1,Combi,50kW,18
+Rathfarnham_Templeogue,Moran’s Red Cow Hotel,ESB,1,Type 2,7kW,19
+Tallaght Central,"Windsor, Belgard",Nissan,1,CHAdeMO,50kW,20
+Tallaght Central,Lidl Tallaght,Maldron Hotel,2,Type 2,22kW,21
+Tallaght Central,"The Square, Tallaght",ESB,4,Type 2,22kW,22
+Tallaght South,Lidl Fortunestown,EasyGo,2,Type 2,7kW,23
+Tallaght South,Citywest Shopping Centre,ESB,2,Type 2,22kW,24
+Jobstown,"Bon Secours, Citywest",EasyGo,2,Type 2,22kW,25
+Rathfarnham -Templeogue,Supervalu Knocklyon,ESB,1,Type 2,22kw,26
+Rathfarnham -Templeogue,Supervalu Knocklyon,ESB,2,CCS,200kw,27
+Rathfarnham -Templeogue,Supervalu Knocklyon,ESB,1,CCS,50kw,28
+Rathfarnham -Templeogue,Supervalu Knocklyon,ESB,1,CHAdeMO,50kw,29
+Rathfarnham -Templeogue,Supervalu Knocklyon,ESB,2,CHAdeMO,70kw,30
+Rathfarnham -Templeogue,Faughs GAA Club,EasyGo,2,Type 2,7kW,31
+Firhouse-Bohernabreena,Stocking Avenue Tesco White Pines,ESB,2,Type 2,22kW,32
+Firhouse-Bohernabreena,Edmonstown Golf Club,EasyGo,2,Type 2,22kW,33
