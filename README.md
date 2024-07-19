@@ -21,25 +21,6 @@ Python 3.x
 Jupyter Notebook on Colab
 Pandas
 Matplotlib
-Installation
-Clone the repository:
-
-bash
-Copy code
-git clone https://github.com/yourusername/ev-charging-analysis.git
-cd ev-charging-analysis
-Install the required Python packages:
-
-bash
-Copy code
-pip install pandas matplotlib jupyter
-Usage
-Start Jupyter Notebook:
-
-bash
-Copy code
-jupyter notebook
-Open SSE_ABHISHEK_ANGNE.ipynb in Jupyter Notebook.
 
 Run the cells in the notebook to perform the analysis and visualize the results.
 
